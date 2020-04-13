@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:layout_centerVertical="true"
+    android:padding="10dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/hashtag"
+        android:text="tag"
+        android:maxLines="1"
+        android:textColor="@color/design_default_color_primary_dark"
+        android:textStyle="bold"
+        android:textSize="12sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/no_of_posts"
+        android:text="post"
+        android:textStyle="normal"
+        android:textColor="#b5b5b5"
+        android:maxLines="1"
+        />
+
+</LinearLayout>
