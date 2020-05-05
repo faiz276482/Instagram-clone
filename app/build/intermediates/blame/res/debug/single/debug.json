@@ -4,6 +4,10 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_comments.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-mdpi\\ic_comments.png"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notification.xml.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\layout\\fragment_notification.xml"
     },
@@ -16,8 +20,24 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\layout_post_item.xml.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\layout\\post_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_like.xml.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-anydpi\\ic_like.xml"
+    },
+    {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_more.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xhdpi\\ic_more.png"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_post.xml.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\layout\\activity_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_comments.xml.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-anydpi\\ic_comments.xml"
     },
     {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -40,6 +60,10 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_more.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xxhdpi\\ic_more.png"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person.png.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xxhdpi\\ic_person.png"
     },
@@ -56,6 +80,10 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_save.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-mdpi\\ic_save.png"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
@@ -68,8 +96,16 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xhdpi\\ic_save.png"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_comments.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xxhdpi\\ic_comments.png"
     },
     {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
@@ -92,6 +128,18 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_like.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xhdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_like.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-mdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_more.xml.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-anydpi\\ic_more.xml"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_heart.png.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xxhdpi\\ic_heart.png"
     },
@@ -100,12 +148,24 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\color\\selector.xml"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_like.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xxhdpi\\ic_like.png"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_comments.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xhdpi\\ic_comments.png"
     },
     {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -144,8 +204,16 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xxhdpi\\ic_close.png"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_save.xml.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-anydpi\\ic_save.xml"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_item.xml.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_more.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-mdpi\\ic_more.png"
     },
     {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
@@ -176,6 +244,10 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add.png"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_more.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-hdpi\\ic_more.png"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instagram_logo.png.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable\\instagram_logo.png"
     },
@@ -200,6 +272,10 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-anydpi\\ic_heart.xml"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-hdpi\\ic_save.png"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
     },
@@ -212,12 +288,20 @@
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-mdpi\\ic_person.png"
     },
     {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_inbox.xml.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable\\ic_inbox.xml"
+    },
+    {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
     },
     {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_like.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-hdpi\\ic_like.png"
     },
     {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
@@ -238,6 +322,10 @@
     {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\layout_tag_item.xml.flat",
         "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\layout\\tag_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_comments.png.flat",
+        "source": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\src\\main\\res\\drawable-hdpi\\ic_comments.png"
     },
     {
         "merged": "C:\\Users\\faiz2_ry3ol6g\\Desktop\\version-control\\Instagram\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",

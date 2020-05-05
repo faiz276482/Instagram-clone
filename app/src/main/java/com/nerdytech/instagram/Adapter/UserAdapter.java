@@ -17,6 +17,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.google.gson.internal.$Gson$Preconditions;
 import com.nerdytech.instagram.model.User;
 import com.nerdytech.instagram.R;
 import com.squareup.picasso.Picasso;
@@ -47,11 +48,11 @@ public class UserAdapter extends RecyclerView.Adapter<UserAdapter.ViewHolder>{
     }
 
     @Override
-    public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull final ViewHolder holder, int position) {
 
         firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
 
-        User user = mUsers.get(position);
+        final User user = mUsers.get(position);
         holder.btnFollow.setVisibility(View.VISIBLE);
 
         holder.username.setText(user.getUsername());
@@ -64,6 +65,24 @@ public class UserAdapter extends RecyclerView.Adapter<UserAdapter.ViewHolder>{
         if (user.getUid().equals(firebaseUser.getUid())){
             holder.btnFollow.setVisibility(View.GONE);
         }
+
+        holder.btnFollow.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(holder.btnFollow.getText().equals("follow")){
+                    FirebaseDatabase.getInstance().getReference().child("Follow")
+                            .child(firebaseUser.getUid()).child("following").child(user.getUid()).setValue(true);
+                    FirebaseDatabase.getInstance().getReference().child("Follow")
+                            .child(user.getUid()).child("followers").child(firebaseUser.getUid()).setValue(true);
+                }
+                else {
+                    FirebaseDatabase.getInstance().getReference().child("Follow")
+                            .child(firebaseUser.getUid()).child("following").child(user.getUid()).removeValue();
+                    FirebaseDatabase.getInstance().getReference().child("Follow")
+                            .child(user.getUid()).child("followers").child(firebaseUser.getUid()).removeValue();
+                }
+            }
+        });
 
     }
 
