@@ -1689,6 +1689,7 @@ id month_navigation_fragment_toggle
 id month_navigation_next
 id month_navigation_previous
 id month_title
+id more
 id mtrl_calendar_day_selector_frame
 id mtrl_calendar_days_of_week
 id mtrl_calendar_frame
@@ -1744,7 +1745,6 @@ id percent
 id pin
 id post
 id post_image
-id profile_image
 id progress_circular
 id progress_horizontal
 id radio

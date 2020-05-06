@@ -4,73 +4,81 @@
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:src="@drawable/ic_more"
         android:layout_margin="15dp"
-        />
+        android:id="@+id/more"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
+
             <de.hdodenhof.circleimageview.CircleImageView
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:id="@+id/profile_image"
-                android:src="@mipmap/ic_launcher"
+                android:id="@+id/image_profile"
                 android:layout_margin="5dp"/>
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/username"
-                android:text="username"
                 android:layout_gravity="center_vertical"
                 android:textSize="16sp"
                 android:textStyle="bold"
                 android:textColor="@color/colorPrimaryDark"
                 android:layout_margin="5dp"/>
+
         </LinearLayout>
+
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            >
+            android:layout_height="wrap_content">
+
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 app:layout_constraintDimensionRatio="1:1"
                 android:id="@+id/post_image"
                 tools:ignore="MissingConstraints"/>
+
         </androidx.constraintlayout.widget.ConstraintLayout>
+
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:padding="10dp"
-            >
+            android:padding="10dp">
+
             <ImageView
                 android:layout_width="30dp"
                 android:layout_height="30dp"
-                android:id="@+id/like"
-                android:src="@drawable/ic_like"/>
+                android:src="@drawable/ic_like"
+                android:id="@+id/like"/>
+
             <ImageView
                 android:layout_width="30dp"
                 android:layout_height="30dp"
-                android:id="@+id/comment"
                 android:src="@drawable/ic_comments"
-                android:layout_toEndOf="@+id/like"
-                android:layout_marginStart="10dp"/>
+                android:layout_toEndOf="@id/like"
+                android:layout_marginStart="10dp"
+                android:id="@+id/comment"/>
+
             <ImageView
                 android:layout_width="30dp"
                 android:layout_height="30dp"
-                android:id="@+id/save"
                 android:src="@drawable/ic_save"
                 android:layout_alignParentEnd="true"
-                android:layout_marginEnd="10dp"/>
+                android:id="@+id/save"/>
 
         </RelativeLayout>
 
@@ -79,27 +87,26 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="10dp"
             android:id="@+id/no_of_likes"
-            android:text="123 liks"
             android:textStyle="bold"
-            android:textColor="@color/colorAccent"
-            />
+            android:textColor="@color/colorAccent"/>
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="10dp"
             android:textStyle="bold"
-            android:textColor="@color/colorPrimaryDark"
-            android:text="Faiz Alam"
-            android:id="@+id/author"/>
+            android:id="@+id/author"
+            android:textColor="@color/colorPrimaryDark"/>
+
         <com.hendraanggrian.appcompat.widget.SocialTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="10dp"
             android:layout_marginTop="5dp"
             android:layout_marginBottom="5dp"
-            android:text="Post Description #android"
             android:textColor="@color/colorAccent"
             android:id="@+id/description"/>
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -107,9 +114,7 @@
             android:layout_marginTop="5dp"
             android:layout_marginBottom="5dp"
             android:id="@+id/no_of_comments"
-            android:text="123 comments"
             android:textColor="@color/colorAccent"/>
-
 
     </LinearLayout>
 
